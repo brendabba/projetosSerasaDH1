@@ -58,10 +58,10 @@ public class Lista {
 		//QUESTÃO 6 (ESC. O NOME DO FUNCIONÁRIO):
 		
 		int matricula = 00001;
-		String nomeFuncionario = "Celina Braz Botelho";
+		String nomeFuncionario = "Maria Celina do Céu";
 		int idade = 24;
 		String sexo = "Feminino";
-		String endereco = "Av. 7 de Setembro, Centro, Itagimirim/BA.";
+		String endereco = "Rua dos Bobos, nº 0, Centro, Itagimirim/BA.";
 		String bairro = "Centro";
 		String estadoCivil = "Casada";
 		
@@ -77,7 +77,7 @@ public class Lista {
 		//QUESTÃO 8 (NOME E MÉDIA):
 		
 
-	    String nome = "Maria Elísia Bispo";
+	    String nome = "Ayô do Céu";
 	    float n1 = 9.5f;
 	    float n2 = 10f;
 	    float n3 = 10f;
@@ -86,7 +86,7 @@ public class Lista {
 
 	    //QUESTÃO 9 (ABONO DE 10%):
 
-	    String nomeDoFuncionario = "Brenda Alcântara";
+	    String nomeDoFuncionario = "Brenda do Céu";
 	    String departamento = "Desenvolvimento";
 	    double salario = 3000.00;
 	    float abono = 0.1f;
