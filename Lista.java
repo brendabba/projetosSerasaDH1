@@ -82,7 +82,7 @@ public class Lista {
 	    float n2 = 10f;
 	    float n3 = 10f;
 
-	    System.out.println(("Resposta da questão 8: Nome da Aluna(o) -> " + nome) + (n1 + n2 + n3)/3);
+	    System.out.println(("Resposta da questão 8: Nome da Aluna(o) = " + nome) + (n1 + n2 + n3)/3);
 
 	    //QUESTÃO 9 (ABONO DE 10%):
 
@@ -144,7 +144,7 @@ public class Lista {
 	    double salarioBruto = salarioBase + (100 * numeroDependentes);
 	    double salarioLiquido = (salarioBase - (salarioBase * descontoInss) + (100 * numeroDependentes));
 	   
-	    System.out.println("Resposta da questão 13: " + ("Salário-bruto = R$" + salarioBruto) + ("; Salário-líquido: R$" + salarioLiquido));
+	    System.out.println("Resposta da questão 13: " + ("Salário-bruto = R$" + salarioBruto) + ("; Salário-líquido= R$" + salarioLiquido));
 	    
 	    //QUESTÃO 14 (QUANTIDADE NECESSÁRIA DE TINTA E NÚMERO DE LATAS)
 	    
